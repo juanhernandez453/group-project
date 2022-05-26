@@ -5,7 +5,7 @@ body {
     padding: 0;
     text-align: center;
     background-color: rgb(217, 234, 240);
-    color: #555;
+    color: rgb(161, 18, 18);
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
